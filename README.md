@@ -13,9 +13,9 @@
 <h3 id='fundamentos'>🏗️ Fundamentos do Desenvolvimento-Web </h3>
 
 > __*📚 Cursando 📚*__
-#### __Seção 1: [Unix, Shell e Git]()__
-- [X] Dia 1.1 - [Unix & Shell]()
-- [X] Dia 1.2 - [Git - O que é e para que serve]()
+#### __Seção 1: [Unix, Shell e Git](https://github.com/CaioEFSilva/trybe-exercicios/tree/main/Fundamentos/Sess%C3%A3o-1-Unix-e-Shell)__
+- [X] Dia 1.1 - [Unix & Shell](https://github.com/CaioEFSilva/trybe-exercicios/tree/main/Fundamentos/Sess%C3%A3o-1-Unix-e-Shell/Dia-1-Unix-e-Shell)
+- [X] Dia 1.2 - [Git - O que é e para que serve](https://github.com/CaioEFSilva/trybe-exercicios/tree/main/Fundamentos/Sess%C3%A3o-1-Unix-e-Shell/Dia-2-Git)
 - [X] Dia 1.3 - [Git & GitHub - Entendendo os comandos]()
 
 #### __Seção 2: [Introdução à HTML & CSS]()__
