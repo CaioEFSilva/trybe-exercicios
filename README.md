@@ -22,16 +22,16 @@
 - [X] Dia 2.1 - [HTML & CSS - Estruturas da página]()
 - [X] Dia 2.2 - [HTML & CSS - Primeiros passos em CSS]()
 - [X] Dia 2.3 - [HTML & CSS - Seletores e posicionamento]()
-- [ ] Dia 2.4 - [HTML Semântico]()
-- [ ] Dia 2.5 - [Projeto - Lessons Learned]()
+- [X] Dia 2.4 - [HTML Semântico]()
+- [X] Dia 2.5 - [Projeto - Lessons Learned]()
 
 #### __Seção 3: [Introdução à JavaScript]()__
-- [ ] Dia 3.1 - [JavaScript - Primeiros passos]()
-- [ ] Dia 3.2 - [JavaScript - Array e loop For]()
-- [ ] Dia 3.3 - [JavaScript - Funções]()
-- [ ] Dia 3.4 - [JavaScript - Objetos]()
-- [ ] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals]()
-- [ ] Dia 3.6 - [Projeto - Playground Functions]()
+- [X] Dia 3.1 - [JavaScript - Primeiros passos]()
+- [X] Dia 3.2 - [JavaScript - Array e loop For]()
+- [X] Dia 3.3 - [JavaScript - Funções]()
+- [X] Dia 3.4 - [JavaScript - Objetos]()
+- [X] Dia 3.5 - [JavaScript ES6 - let, const, arrow function e template literals]()
+- [X] Dia 3.6 - [Projeto - Playground Functions]()
 
 #### __Seção 4: [JavaScript: DOM, Eventos e Web Storage]()__
 - [ ] Dia 4.1 - [JavaScript - DOM e seletores]()
